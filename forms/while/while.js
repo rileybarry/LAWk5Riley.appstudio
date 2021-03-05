@@ -1,3 +1,4 @@
+/*
 let cycle = prompt()
 let track = 0
 
@@ -6,3 +7,4 @@ while (cycle > 0) {
   console.log(`This is loop iteration ${track}.`)
   cycle--
 }
+*/
