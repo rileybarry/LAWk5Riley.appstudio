@@ -1,3 +1,4 @@
+/*
 let quoteString = 'Failure is simply the opportunity to begin again this time more intelligently.'
 
 quoteString = quoteString.toUpperCase()
@@ -17,3 +18,4 @@ if (found == True) {
 } else {
   console.log('Henry was NOT in completeString.')
 }
+*/
